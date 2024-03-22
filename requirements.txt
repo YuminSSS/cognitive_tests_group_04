@@ -13,3 +13,5 @@ zipfile
 threading
 IPython.display
 matplotlib.pyplot
+os
+Tabulate
