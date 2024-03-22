@@ -12,4 +12,4 @@ bs4
 zipfile
 threading
 IPython.display
-
+matplotlib.pyplot
